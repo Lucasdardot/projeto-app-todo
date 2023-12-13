@@ -13,9 +13,8 @@ body{
     height: 90vh;
     width: 100%;
     text-align: center;
-    
-    padding: 10px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    overflow: scroll;
 }
 
 .titulo{
@@ -36,8 +35,8 @@ body{
 }
 
 .input{
-   
     height: 7%;
+    padding-bottom: 30px;
     display: flex;
     text-align: center;
     align-items: center;
