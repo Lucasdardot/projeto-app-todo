@@ -20,14 +20,14 @@ body{
 .titulo{
     
     font-family: 'Roboto', sans-serif;
-    font-size: 35px;
+    font-size: 25px;
     
 }
 
 .tarefas{
     border: 2px solid black;
     border-radius: 20px;
-    height: 75%;
+    height: 55vh;
     display: flex;
     flex-direction: column;
     margin-top: 20px;
@@ -37,6 +37,7 @@ body{
 .input{
     height: 7%;
     padding-bottom: 30px;
+    margin-top: 20px;
     display: flex;
     text-align: center;
     align-items: center;
